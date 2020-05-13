@@ -18,4 +18,20 @@
 来来回回翻了5、6次，还是没跑过第三章，羞愧🙈，下半年必攻书籍💪（07.2020~10.2020）。
 - Java并发部分书还没怎么读过。
 
+## 设计模式
 
+- [大话设计模式完整版.pdf](https://github.com/ChengYongchao/Books/blob/master/设计模式/大话设计模式完整版.pdf)
+超棒的书，建议重复打卡
+- [设计模式之禅（第二版）.pdf](https://github.com/ChengYongchao/Books/blob/master/设计模式/设计模式之禅（第二版）.pdf)
+看了一部分，还在更，附demo[designmode](https://github.com/ChengYongchao/kevinProject/tree/master/src/cyc/java/designmode)
+- [图解Java多线程设计模式.pdf](https://github.com/ChengYongchao/Books/blob/master/设计模式/图解Java多线程设计模式.pdf)
+
+## 历史
+- [淘宝技术这十年.pdf](https://github.com/ChengYongchao/Books/blob/master/历史/淘宝技术这十年.pdf)
+超遗憾没有赶上第一波互联网，开始学习的时候就是新技术，一些成熟的框架，知其然不知其所以然，对互联网的发展很模糊很混乱，这本书当然不是互联网历史的介绍，但是它也能告诉我们，大佬们是如何从一无所有的年代一步步走出来的。技术总在进步，而能让技术进步的除了需求就是那些有钻研精神的时代弄潮儿，致敬🦍
+
+## 生活
+大佬曾经说过：热爱你的生活，而不是热爱工作。工作只是让你实现自己想要的生活的工具，你要明白自己为什么活着，要想清楚自己究竟想要的是什么，不管大大小小的理想，总之，活得像自己就好。
+
+- [断舍离+断舍离（心灵篇）+自在力套装共3册）.pdf](https://github.com/ChengYongchao/Books/blob/master/生活/断舍离%2B断舍离（心灵篇）%2B自在力套装共3册）[seosee.info].pdf)
+家里总是一团糟？看这本书（我反正没学会🙃），扔扔扔，给自己自由！
