@@ -23,7 +23,7 @@
 - [大话设计模式完整版.pdf](https://github.com/ChengYongchao/Books/blob/master/设计模式/大话设计模式完整版.pdf)
 超棒的书，建议重复打卡
 - [设计模式之禅（第二版）.pdf](https://github.com/ChengYongchao/Books/blob/master/设计模式/设计模式之禅（第二版）.pdf)
-看了一部分，还在更，附demo[designmode](https://github.com/ChengYongchao/kevinProject/tree/master/src/cyc/java/designmode)
+看了一部分，还在更，附demo[designmode](https://github.com/ChengYongchao/kevinProject/tree/master/src/main/java/com/kevin/designmode)
 - [图解Java多线程设计模式.pdf](https://github.com/ChengYongchao/Books/blob/master/设计模式/图解Java多线程设计模式.pdf)
 
 ## 历史
